@@ -4,7 +4,7 @@ Hi there, I'm <a href="https://blog.stevesec.com">SteveSec</a>
 
 <i>5+ years penetration testing</i>
 <br />
-<i>Scripting in my spare time, pwning ⚡ at work!</i>
+<i>Scripting in my spare time, pwning ⚡ at work!</i> 
 
 ## Technical Skills
 
