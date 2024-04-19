@@ -1,4 +1,4 @@
-Hi there, I'm <a href="https://blog.stevesec.com">SteveSec</a>
+Hi there, I'm <a href="https://www.stevesec.com">SteveSec</a>
 
 ## SteveSec
 
